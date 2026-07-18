@@ -1,29 +1,74 @@
-### Gullah Geechee Biz
+# Gullah Geechee Biz
 
-Open tools and cultural publishing for the Gullah Geechee corridor (SC · GA · FL).
+### Darryl Elliott Brown · Publisher: Gullah Geechee Biz
 
-**Support the open layer:** [github.com/sponsors/Darrylebrown](https://github.com/sponsors/Darrylebrown)
+Culture-first publishing and open tools for the **Gullah Geechee corridor** — South Carolina · Georgia · Florida.
 
-Paid books and audiobooks stay on commercial stores. Sponsorships fund free infrastructure and community materials.
-
-Welcome developers, students, libraries, and culture researchers worldwide — including friends in the US, China, and India.
+Not a tip jar. Soft path into books, audio, and free learning.
 
 ---
 
-### 中文
+## Start here
 
-为 Gullah Geechee 文化走廊（南卡罗来纳 · 乔治亚 · 佛罗里达）提供开源工具与文化出版。
-
-**支持开放层：** [github.com/sponsors/Darrylebrown](https://github.com/sponsors/Darrylebrown)
-
-付费图书与有声书仍在商业平台；赞助用于免费基础设施与社区教育材料。
+| Path | Link |
+|------|------|
+| **Public site** | [darrylebrown.github.io/gullahgeecheebiz-site](https://darrylebrown.github.io/gullahgeecheebiz-site/) |
+| **Shop** | [Site shop](https://darrylebrown.github.io/gullahgeecheebiz-site/shop.html) |
+| **Sponsors** (when public) | [github.com/sponsors/Darrylebrown](https://github.com/sponsors/Darrylebrown) |
+| **Blood Remembers** (Kindle) | [amazon.com/dp/B0H7WQ69N9](https://www.amazon.com/dp/B0H7WQ69N9) |
+| **Roots & Rivers Vol. 1 — Beaufort** | [amazon.com/dp/B0H8M57FBP](https://www.amazon.com/dp/B0H8M57FBP) |
 
 ---
 
-### हिन्दी
+## What we publish
 
-Gullah Geechee सांस्कृतिक गलियारे (SC · GA · FL) के लिए ओपन टूल्स और सांस्कृतिक प्रकाशन।
+- **Roots & Rivers** — place encyclopedias across the Lowcountry corridor  
+- **Tribal connections series** — long-form packaging for African linkages (steady batches)  
+- **Flagship readers** — language, foodways, craft, faith, memoir  
+- **Full practical editions** — culture-rooted nonfiction for builders  
+- **Multilingual** — EN · ES · 简体中文 on selected titles  
 
-**मुक्त परत का समर्थन करें:** [github.com/sponsors/Darrylebrown](https://github.com/sponsors/Darrylebrown)
+Author: **Darryl Elliott Brown** · Publisher: **Gullah Geechee Biz**
 
-सशुल्क किताबें/ऑडियो स्टोर पर रहती हैं; स्पॉन्सरशिप मुफ़्त इंफ़्रा और शिक्षा सामग्री चलाती है।
+---
+
+## Open layer (this account)
+
+Private automation holds production catalogs, pin queues, and encyclopedia packaging.  
+Public site holds culture, shop, and soft invites.
+
+```text
+Culture first · soft CTA · no celebrity name drops · human publish only
+```
+
+---
+
+## 中文
+
+为 **Gullah Geechee（格拉·吉齐）** 文化走廊提供文化优先的出版与开放工具。
+
+- 站点：[Gullah Geechee Biz](https://darrylebrown.github.io/gullahgeecheebiz-site/)  
+- 支持开放层（上线后）：[Sponsors](https://github.com/sponsors/Darrylebrown)  
+- 付费图书在商业平台；赞助用于免费基础设施与教育材料  
+
+---
+
+## हिन्दी
+
+Gullah Geechee सांस्कृतिक गलियारे (SC · GA · FL) के लिए संस्कृति-प्रथम प्रकाशन और ओपन टूल्स।
+
+- साइट: [Gullah Geechee Biz](https://darrylebrown.github.io/gullahgeecheebiz-site/)  
+- ओपन लेयर सपोर्ट: [Sponsors](https://github.com/sponsors/Darrylebrown)  
+
+---
+
+## Contact & privacy
+
+No personal email, phone, home address, or bank details on this profile.  
+Business path: public site + commercial storefronts + Sponsors when approved.
+
+---
+
+<p align="center">
+  <em>Join the circle · keep the corridor in print and in memory</em>
+</p>
